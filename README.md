@@ -415,8 +415,9 @@ Use um `OUTDIR` e um `MODELO`/`AGREGADOR` diferentes em cada execução e compar
 
 ## 13. Autoria, licença e citação
 
-**Autor:** Mateus Bastos Araújo, Programa de Pós-Graduação em Ciência da Computação, Universidade Federal do Pará (UFPA).
+**Autor:** Mateus Bastos Araújo, Programa de Pós-Graduação em Computação (PPGComp), Universidade Federal do Pará (UFPA).
 
+<!-- 
 **Licença:** _a definir_ (sugestão: MIT ou Apache-2.0). Adicione o arquivo `LICENSE` antes de tornar o repositório público.
 
 **Como citar:** _a preencher após a publicação do artigo/dissertação._
@@ -429,7 +430,7 @@ Use um `OUTDIR` e um `MODELO`/`AGREGADOR` diferentes em cada execução e compar
   note   = {Código-fonte: https://github.com/<seu-usuario>/qfl-innetwork}
 }
 ```
-
+-->
 ### Agradecimentos às ferramentas
 
 [NetSquid](https://netsquid.org) (simulação de redes quânticas) e [PennyLane](https://pennylane.ai) (aprendizado de máquina quântico).
