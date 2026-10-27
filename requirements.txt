@@ -1,0 +1,11 @@
+# Dependências do projeto qfl-innetwork
+#
+# IMPORTANTE: o NetSquid NÃO está listado aqui de propósito.
+# Ele exige conta gratuita em https://netsquid.org e é instalado à parte:
+#   pip install --extra-index-url https://pypi.netsquid.org netsquid
+#
+# NumPy precisa ficar em 1.26.x: o NetSquid não é compatível com NumPy 2.x.
+numpy==1.26.4
+pennylane>=0.45
+matplotlib>=3.7
+pandas>=2.0

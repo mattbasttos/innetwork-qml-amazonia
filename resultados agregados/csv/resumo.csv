@@ -1,0 +1,2 @@
+modelo,agregador,acc_centralizado,acc_fed_ideal,acc_fed_quantico,delta_ideal_menos_quantico,t_pareado,n_seeds
+VQCModel,FedAvg,0.9291666666666668,0.8958333333333333,0.9066666666666666,-0.010833333333333339,-1.2326721054199783,10
